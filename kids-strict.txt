@@ -1,0 +1,49 @@
+# YouTube (core + delivery)
+youtube.com
+youtu.be
+youtube-nocookie.com
+googlevideo.com
+ytimg.com
+youtubei.googleapis.com
+
+# Roblox
+roblox.com
+rbxcdn.com
+
+# Twitch
+twitch.tv
+ttvnw.net
+
+# Netflix (video delivery)
+netflix.com
+nflxvideo.net
+nflximg.net
+nflxext.com
+nflxso.net
+
+# Disney+
+disneyplus.com
+dssott.com
+bamgrid.com
+
+# Prime Video (optional; Amazon is huge, so keep it video-specific)
+primevideo.com
+
+# Epic / Fortnite
+epicgames.com
+epicgamescdn.com
+unrealengine.com
+
+# Steam (optional - can be noisy if you use it)
+steampowered.com
+steamcommunity.com
+steamstatic.com
+steamcontent.com
+
+# Xbox / PlayStation networks (optional)
+xboxlive.com
+playstation.net
+sonyentertainmentnetwork.com
+
+# “Time sink” sites
+9gag.com
